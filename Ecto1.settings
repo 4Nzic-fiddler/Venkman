@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VenkmanClient" GeneratedClassName="Ecto1">
+  <Profiles />
+  <Settings>
+    <Setting Name="DNSPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">venkman-logs-path</Value>
+    </Setting>
+    <Setting Name="DefaultLogPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\HQ-DC1\Logs\Heartbeat\</Value>
+    </Setting>
+    <Setting Name="DNSETW" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">venkman-etw-providers</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
